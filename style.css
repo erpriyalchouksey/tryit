@@ -540,19 +540,11 @@ section{
    margin-top: 2rem;
 }
 
-
-
-
-
-
-
-
-
-
 .footer{
    background: url(images/footer-bg.jpg) no-repeat;
    background-size: cover;
    background-position: center;
+   background-color:#222;
 }
 
 .footer .box-container{
@@ -597,22 +589,6 @@ section{
    color:var(--main-color);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* media queries  */
 
 @media (max-width:1200px){
 
